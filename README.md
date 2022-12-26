@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **pythoc, C++,C**
+- 💬 Ask me about **pytho, C++,C**
 
 - 📫 How to reach me **eshnaghoshdgp@gmail.com**
 
